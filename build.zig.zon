@@ -4,11 +4,12 @@
     .minimum_zig_version = "0.12.0",
     .dependencies = .{
         .webui = .{
-            .url = "https://github.com/jackedak/webui/archive/refs/tags/fml.tar.gz",
-            .hash = "12205bee002adee5e0444bb1a382894f8067fb792ff23fd412efb80f44fc776fef5b",
+            .url = "https://github.com/jackedak/webui/archive/refs/tags/fuckthis.tar.gz",
+            .hash = "12206fe007a87bd144bc9644f6b5d2a1e8f5624619581496f78511277ad11a9eb6b5",
         },
     },
     .paths = .{
         "",
     },
 }
+
